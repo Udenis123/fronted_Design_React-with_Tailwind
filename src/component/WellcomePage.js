@@ -11,7 +11,7 @@ function WellcomePage() {
            <div className='flex justify-center items-center'>
             <p className='md:text-4xl sm:text-3xl text-xl font-bold py-4'>Fast,flexible financing for</p>
             <ReactTyped className='md:text-4xl sm:text-3xl text-gray-500 text-xl md:pl-4 pl-2 font-bold '
-            strings={['BTB','BTC','SASS']}
+            strings={['AARON','MUGISHA','REMMY']}
             typeSpeed={120}
             backSpeed={140}
             loop />
